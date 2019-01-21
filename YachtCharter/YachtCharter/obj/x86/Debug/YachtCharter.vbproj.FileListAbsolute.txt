@@ -1,0 +1,10 @@
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\bin\Debug\YachtCharter.exe
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\bin\Debug\YachtCharter.pdb
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\bin\Debug\YachtCharter.xml
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\obj\x86\Debug\YachtCharter.vbproj.GenerateResource.Cache
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\obj\x86\Debug\YachtCharter.exe
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\obj\x86\Debug\YachtCharter.xml
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\obj\x86\Debug\YachtCharter.pdb
+C:\Users\Kritz\Desktop\Yacht Charter\YachtCharter\YachtCharter\obj\x86\Debug\WindowsApplication1.AboutBox.resources
